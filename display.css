@@ -1,0 +1,23 @@
+.box-R{
+    background-color: red;
+    width: fit-content;
+}
+.box-R{
+    background-color: yellow;
+    width: fit-content;
+}
+.box-R{
+    background-color: green;
+    width: fit-content;
+}
+.box-R{
+    background-color: blue;
+    width: fit-content;
+}
+
+.container{
+    background-color: orange
+    display: flex;
+    flex-direction: row;
+
+}
